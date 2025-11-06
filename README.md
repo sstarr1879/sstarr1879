@@ -3,13 +3,30 @@
 
 # About Me
 
-Greetings! I am a mathematician and data scientist working to apply analysis towards national security. I've served across the government and department of defense enabling data driven insights. I am incredibly interested in data bias and AI ethics.
+Hi! I'm a systems engineering PhD researcher and AI engineer focused on workflow architecture, human/AI reliance calibration, and applications of responsible AI in high-consequence decision environments. I’ve served across the U.S. Government and Department of Defense enabling data-driven insights and rapid software delivery at the speed of mission.
+
+I occasionally write about responsible AI engineering, rapid software prototyping, and decision-support workflows:
+
+👉 https://medium.com/@sstarr1879/about
+
+## Current Research
+
+* Human/AI workflow architectures for AI-enabled decision systems
+* Reliance trajectories & trust calibration
+* Time–risk tradeoff mechanisms in human-AI teaming
+* AI abstention, confidence thresholds, and fallback pathways
+
+## Experience
+
+* Responsible AI engineering, AIML governance & evaluation
+* Spatial analytics, AIML, anomaly detection, time series
+* Cloud platforms, DevOps, containerization, Kubernetes
+* Rapid data product prototyping (Python, TypeScript)
 
 
-## Skills
+## Contact
 
-* Python, QGIS, Tableau
-* Spatial Analysis and clustering
-* Statistical modeling 
-* Time series forecasting /anomaly detection
-* ML and devops, containerization, k8s, cloud
+Feel free to reach out if you're working on:
+* Evaluation, observability, and trust in AI systems
+* Human-AI teaming design patterns
+* National security innovation ecosystems
