@@ -3,7 +3,7 @@
 
 # About Me
 
-Hi! I'm a systems engineering PhD researcher and AI engineer focused on workflow architecture, human/AI reliance calibration, and applications of responsible AI in high-consequence decision environments. I’ve served across the U.S. Government and Department of Defense enabling data-driven insights and rapid software delivery.
+Hi! I'm a systems engineering PhD student and AI engineer focused on workflow architecture, human/AI reliance calibration, and applications of responsible AI in high-consequence decision environments. I’ve previously served across the U.S. Government and Department of Defense enabling data-driven insights and rapid software delivery.
 
 I occasionally write about responsible AI engineering, rapid software prototyping, and decision-support workflows:
 
